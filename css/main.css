@@ -16,4 +16,28 @@ h1 {
 	color: #244576;
 	font-weight: normal;
 	font-size: 5rem;
+	line-height: 1.5;
+	/*
+		text-shadow
+			horizontal offset
+	text-shadow: 2px -5px 16px navy;
+	*/
+	font-family: 'Oswald', sans-serif;
+}
+
+p {
+	font-style: italic; /* italic, normal */
+	text-decoration: line-through; /* underline, none, line-through*/
+	text-align: center; /* left, center, right, justify*/
+	font-family: arial, sans-serif;
+}
+
+
+ol {
+		list-style-type: circle;
+		/*
+			none
+			decimal, circle, lower-alpha, lower-roman, upper-alpha, upper-roman,
+			square, disc
+		*/
 }
