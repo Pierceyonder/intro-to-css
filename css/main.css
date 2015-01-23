@@ -11,3 +11,9 @@ html {
 
 color: #fff;
 }
+
+h1 {
+	color: #244576;
+	font-weight: normal;
+	font-size: 5rem;
+}
